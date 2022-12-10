@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scenario Login</description>
+   <name>TC001 - LoginOrangeHrm - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>931eb6e5-9c6c-4234-95f9-8a0c5a70082c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e941e67-6e51-4976-b80f-87fcdb7c6f47</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28d47847-8227-4abb-a191-0b7412e71755</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b077a6f2-53b2-4ae6-8e8a-e5f0e8c1eb04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8154a033-5c8f-4a62-8cc7-c3bbcd9c0c95</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e941e67-6e51-4976-b80f-87fcdb7c6f47</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28d47847-8227-4abb-a191-0b7412e71755</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b077a6f2-53b2-4ae6-8e8a-e5f0e8c1eb04</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8154a033-5c8f-4a62-8cc7-c3bbcd9c0c95</id>
+      <masked>false</masked>
+      <name>flag</name>
+   </variable>
+</TestCaseEntity>

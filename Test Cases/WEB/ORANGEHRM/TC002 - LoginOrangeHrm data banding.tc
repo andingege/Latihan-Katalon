@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scenario Login</description>
+   <name>TC002 - LoginOrangeHrm data banding</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c640783b-ea76-44e5-b09f-ad493c6b8faf</testCaseGuid>
+</TestCaseEntity>
